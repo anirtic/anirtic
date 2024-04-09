@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Matas</h1>
-<h3 align="center">A passionate  Data Scientist, with educational and work background of Finance and Sales/Business Development. I am focused on simplifying and optimizing business processes. Keen to implement new operation strategies contributing to decision-making and business growth.</h3>
-
-
 
 📫 How to reach me **matasdziugas@gmail.com**
 

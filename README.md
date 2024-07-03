@@ -20,7 +20,7 @@ Visitor->>You: Until then, goodbye!
 ```
 <h3 align="left">My uploaded projects ordered chronologically:</h3>
 1. k-means-clustering-algorithm. <br>
-2. football_data_eda<be>
+2. football_data_eda<br>
 3. lending-club-dataset<br>
 4. loan_default_prediction<br>
 <h3 align="left">Languages and Tools:</h3>
